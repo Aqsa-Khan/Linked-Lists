@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=IntegerNode(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ IntegerNode\n
+comment1.params=
+comment1.target=int\ getData()
+comment1.text=\n\ returns\ the\ integer\ data\ being\ stored\ by\ this\ node\n
+comment2.params=
+comment2.target=IntegerNode\ getNext()
+comment2.text=\n\ returns\ the\ next\ node\ that\ has\ been\ linked\ to\ this\ one\n
+comment3.params=
+comment3.target=IntegerNode\ getPrevious()
+comment3.text=\n\ returns\ the\ previous\ node\ that\ has\ been\ linked\ to\ this\ one\n
+comment4.params=in
+comment4.target=void\ setNext(IntegerNode)
+comment4.text=\n\ sets\ the\ next\ node,\ so\ that\ this\ node\ is\ now\ linked\ to\ in\n
+comment5.params=in
+comment5.target=void\ setPrevious(IntegerNode)
+comment5.text=\n\ sets\ the\ previous\ node,\ so\ that\ this\ node\ is\ now\ linked\ to\ in\n
+numComments=6
